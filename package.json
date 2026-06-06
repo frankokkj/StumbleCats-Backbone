@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "ts": "^0.2.2"
+  "name": "Catsbone",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "start": "node index.js",
+      "dependencies": {
+        "ts": "^0.2.2"
+      }
+    }
   }
 }
